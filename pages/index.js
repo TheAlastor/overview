@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Home2</div>
+    return <div>Caio Paganotti na web</div>
 }
 
 export default Home
